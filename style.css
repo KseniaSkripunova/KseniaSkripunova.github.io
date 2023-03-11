@@ -1,0 +1,21 @@
+.style1 {
+  font-family:"segoe script", cursive;
+  color: indigo;
+  text-align: center;
+  font-size: 30pt;
+}
+.style2 {
+  font-family:"segoe script", cursive;
+  color: black;
+}
+
+h2 {
+  font-family:"times new roman", cursive;
+  color: black;
+  text-align: center;
+  font-size: 28pt;
+}
+h3 {
+  font-family:"segoe script", cursive;
+  color: indigo;
+}
